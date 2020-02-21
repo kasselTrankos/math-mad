@@ -1,0 +1,24 @@
+{
+  "name": "peano-number",
+  "version": "1.0.0",
+  "description": "- Peano study, from harding article",
+  "main": "peano.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kasselTrankos/math-mad.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kasselTrankos/math-mad/issues"
+  },
+  "homepage": "https://github.com/kasselTrankos/math-mad#readme",
+  "dependencies": {
+    "algebraic-types": "^0.1.0",
+    "daggy": "^1.4.0"
+  }
+}
